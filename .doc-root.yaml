@@ -4,4 +4,4 @@ supportedLanguages: []
 properties: []
 versions:
   - v1.1.
-syntax: Legacy
+syntax: GitHub Flavored Markdown
