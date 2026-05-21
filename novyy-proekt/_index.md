@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Новый проект
+title: Эскизный проект
 template: YhMQH
 ---
 
