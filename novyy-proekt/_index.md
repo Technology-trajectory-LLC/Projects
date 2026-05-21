@@ -1,6 +1,6 @@
 ---
 order: 1
 title: Новый проект
+template: YhMQH
 ---
 
-<view defs="hierarchy=none" display="List"/>
