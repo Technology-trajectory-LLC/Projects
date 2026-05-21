@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Эскизный проект
+title: Технический проект
 template: Lko85
 ---
 
