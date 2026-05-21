@@ -1,0 +1,10 @@
+creator: nevzorov007911-collab <nevzorov007911@gmail.com>
+targetBranch: v1.1
+createdAt: '2026-05-21 08:04:23'
+approvers:
+- user: nevzorov007911-collab <nevzorov007911@gmail.com>
+  approvedAt: '2026-05-21 08:04:42'
+options:
+  deleteAfterMerge: true
+  squash: true
+description: слияние
