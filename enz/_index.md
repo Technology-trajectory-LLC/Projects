@@ -1,6 +1,8 @@
 ---
 order: 1
-title: Новый проект
+title: ЭНЦ
+searchPhrases:
+  - ЭНЦ
 ---
 
 <view defs="hierarchy=none" display="List"/>
